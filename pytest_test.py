@@ -1,4 +1,4 @@
 
 def test_AssertTrue():
-    #assert True
-    assert False
+    assert True
+    #assert False
